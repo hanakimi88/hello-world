@@ -1,4 +1,4 @@
-<mxfile modified="2021-05-01T03:40:21.638Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kpOmuO6n7lGLxwZ7IQbW" version="14.6.9" type="github">
+<mxfile modified="2021-05-01T03:44:27.523Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="GbuViRF-6KwDMP1ltIlv" version="14.6.9" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1498" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKe02ADMdxhWS-AVPnqg-4" value="On-premise Ms. SQL" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#004C99;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.sql_server;" vertex="1" parent="1">
+        <mxCell id="QKe02ADMdxhWS-AVPnqg-4" value="On-premise &lt;br&gt;Ms. SQL" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#004C99;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.servers.sql_server;" vertex="1" parent="1">
           <mxGeometry x="72" y="239" width="43" height="56" as="geometry" />
         </mxCell>
         <mxCell id="QKe02ADMdxhWS-AVPnqg-11" value="&lt;font color=&quot;#000000&quot;&gt;Amazon S3&lt;br&gt;&lt;/font&gt;(Exported from RDS)" style="points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
@@ -96,7 +96,7 @@
             <mxPoint x="300" y="116.99999999999989" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QKe02ADMdxhWS-AVPnqg-55" value="Python +&amp;nbsp;&lt;br&gt;Windows &lt;br&gt;Scheduler" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;fillColor=#FFF4C3;" vertex="1" parent="1">
+        <mxCell id="QKe02ADMdxhWS-AVPnqg-55" value="&lt;span style=&quot;background-color: rgb(212 , 225 , 245)&quot;&gt;Python +&amp;nbsp;&lt;br&gt;Windows &lt;br&gt;Scheduler&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="165" y="246" width="42" height="42" as="geometry" />
         </mxCell>
         <mxCell id="QKe02ADMdxhWS-AVPnqg-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;" edge="1" parent="1" source="QKe02ADMdxhWS-AVPnqg-4" target="QKe02ADMdxhWS-AVPnqg-55">
